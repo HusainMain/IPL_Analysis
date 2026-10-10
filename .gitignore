@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+profile_default/
+ipynb_config.py
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large public datasets - not needed in the repo.
+# Re-download before running: the notebook reads them from 'Complete Source Code'.
+# Source: https://www.kaggle.com/datasets/nowke9/ipldata (matches.csv, deliveries.csv)
+Complete Source Code/deliveries.csv
