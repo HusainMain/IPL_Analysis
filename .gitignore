@@ -15,6 +15,9 @@ env/
 Thumbs.db
 desktop.ini
 
+# Local render output from /brag video runs (large binaries, not source)
+brag-output*/
+
 # Large public datasets - not needed in the repo.
 # Re-download before running: the notebook reads them from 'Complete Source Code'.
 # Source: https://www.kaggle.com/datasets/nowke9/ipldata (matches.csv, deliveries.csv)
